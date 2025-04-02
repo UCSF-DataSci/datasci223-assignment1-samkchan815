@@ -34,6 +34,7 @@ def hash_email(email):
     #byte_email = email.encode() # convert to bytes
     #hash_email = hashlib.sha256(byte_email).hexdigest() # SHA-256 hash
     hash_email = hashlib.sha256(email.encode()).hexdigest()
+    print(hash_email)
     return hash_email
 
 def write_hash_to_file(hash_value, filename="hash.email"):
