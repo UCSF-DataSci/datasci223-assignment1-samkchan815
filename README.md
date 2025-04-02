@@ -49,12 +49,6 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
-
 Hello, my name is Samantha. I hope to learn more about machine learning and utilizing Python
 for their application. I think it would be very interesting and a useful set of tools to have to use in the future. I would like to see some image processing/computer vision content to be included. It is something I am interested and would love to learn more about it. 
 
