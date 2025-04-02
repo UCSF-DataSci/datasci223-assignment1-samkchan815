@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6fFVVHyL)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18980037)
 # GitHub and Python Foundations Assignment
 
 ## Overview
@@ -47,11 +49,11 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+Hello, my name is Samantha. I hope to learn more about machine learning and utilizing Python
+for their application. I think it would be very interesting and a useful set of tools to have to use in the future. I would like to see some image processing/computer vision content to be included. It is something I am interested and would love to learn more about it. 
+
+I would recommend the song 'Grow as We Go' by Ben Platt in the 'Sing to Me Instead' album.
+["Grow as We Go" by Ben Platt](https://www.youtube.com/watch?v=KM38-goPJEU)
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
