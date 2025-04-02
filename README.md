@@ -55,6 +55,12 @@ Replace the "Part 1" section with:
 - Topics you would like to see included
 - A musical recommendation and a link to something about it (song, album, artist)
 
+Hello, my name is Samantha. I hope to learn more about machine learning and utilizing Python
+for their application. I think it would be very interesting and a useful set of tools to have to use in the future. I would like to see some image processing/computer vision content to be included. It is something I am interested and would love to learn more about it. 
+
+I would recommend the song 'Grow as We Go' by Ben Platt in the 'Sing to Me Instead' album.
+["Grow as We Go" by Ben Platt](https://www.youtube.com/watch?v=KM38-goPJEU)
+
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
 1. Accept an email address as a command line argument
